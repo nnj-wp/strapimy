@@ -1,5 +1,5 @@
 {
-  "name": "strapi-import-export-demo",
+  "name": "crown-strapi-demo",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -12,18 +12,14 @@
   "devDependencies": {},
   "dependencies": {
     "knex": "0.21.18",
-    "pg": "^8.6.0",
-    "pg-connection-string": "^2.5.0",
     "sqlite3": "5.0.0",
     "strapi": "3.6.2",
     "strapi-admin": "3.6.2",
     "strapi-connector-bookshelf": "3.6.2",
-    "strapi-hook-ejs": "^3.6.2",
     "strapi-plugin-content-manager": "3.6.2",
     "strapi-plugin-content-type-builder": "3.6.2",
     "strapi-plugin-email": "3.6.2",
     "strapi-plugin-i18n": "3.6.2",
-    "strapi-plugin-import-export-content": "^0.3.1",
     "strapi-plugin-upload": "3.6.2",
     "strapi-plugin-users-permissions": "3.6.2",
     "strapi-provider-upload-cloudinary": "^3.6.2",
@@ -33,7 +29,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "35937397-dfe8-4003-92a1-760bab56cb12"
+    "uuid": "05b6d5c6-3319-46a1-8b26-351f4d3b0ab9"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
